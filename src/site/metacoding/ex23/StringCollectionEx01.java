@@ -24,5 +24,5 @@ public class StringCollectionEx01 {
         sb.append("ny=75");
 
         System.out.println(sb.toString());
-    } 
+    }
 }
